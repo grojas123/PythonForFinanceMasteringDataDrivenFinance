@@ -4,6 +4,4 @@ jupyterlab
 pandas
 plotly
 numpy
-sympy
-pylablib
 seaborn
